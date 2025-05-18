@@ -1,1 +1,1 @@
-# thesis-QuasiNet
+# QuasiNet
